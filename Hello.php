@@ -1,2 +1,5 @@
-$hello = "Hello World"
+<?php
+$hello = "Hello World";
 echo $hello;
+?>
+
